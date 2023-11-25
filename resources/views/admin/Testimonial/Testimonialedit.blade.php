@@ -10,7 +10,7 @@
                         <div class="row" id="editprofile" style="display: flex;">
                             <div class="col-12">
                                 <strong class="fs-16 fw-500 light-blue-txt mb-3 d-block">Update Testimonial</strong>
-                                <form action="/testimonialupdate/{{$testimonialedit->id }}" method="POST" enctype="multipart/form-data">
+                                <form action="/testimonialupdate/{{$testimonialedit->id}}" method="POST" enctype="multipart/form-data">
                                  {{csrf_field()}}
                                  {{method_field('PUT')}}
                                   @csrf

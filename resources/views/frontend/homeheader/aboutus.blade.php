@@ -8,9 +8,7 @@
             <p class="fs-22 fw-300 fs-18-xl fs-16-md fs-14-m mb-xl-4">
                 Reubro Internationl is a leading web design and web development company in Kochi,Kerala, that also caters to branding and marketing services for clients. Our team of high-performing, digitally transformative, experienced trainers ensure that the clients get a hands-on experience with the end result. Our web experiences are designed and developed to be user-friendly, feature-packed, fully efficient, super reliable, and capable of maintaining the balance as your enterprise grows.
             </p>
-            <p class="fs-22 fw-300 fs-18-xl fs-16-md fs-14-m">
-                Reubro, with its 25+ years of services and accomplishments, is proud of its strong and steady past in the realm of web design, web development, digital marketing, and WordPress development. Over the past decade, we have carved a commendable niche for ourselves in the above-mentioned spheres. We have strengthened our company on the foundations of strong leadership, clientele, and a talented team. We provide effective and unique branding solutions that integrate the human quotient and design together. Reubro Internationl promises our clients a strong, memorable, and unique web experience.
-            </p>
+           
         </div>
     </section>
     <section class="mb-5">

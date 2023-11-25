@@ -9,10 +9,10 @@ use Illuminate\Support\Facades\File;
 
 class TestimonialController extends Controller
 {
-    public function Testimonial()
-    {
-        return view('admin.Testimonial.addTestimonial');
-    }
+        public function Testimonial()
+        {
+            return view('admin.Testimonial.addTestimonial');
+        }
     public function testimonialadd(Request $request)
     {
 
@@ -25,7 +25,7 @@ class TestimonialController extends Controller
         {
             $file = $request->file('image');
             $extenstion = $file->getClientOriginalExtension();
-            $filename = time().'.'.$extenstion;
+            $filename = time().'.'.$extenstion; 
             $file->move('backend/upload/', $filename);
             $testimonialadd->image = $filename;
         }
@@ -54,7 +54,7 @@ class TestimonialController extends Controller
             $extenstion = $file->getClientOriginalExtension();
             $filename = time().'.'.$extenstion;
             $file->move('backend/upload/', $filename);
-            $testimonialupdate->image = $filename;
+            $testimonialupdate->image = $filename;  
         }
 
         $testimonialupdate->save();

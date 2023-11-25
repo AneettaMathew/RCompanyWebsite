@@ -28,7 +28,6 @@
                                     <td>{{$i++}}</td>
                                     <td>{{$item['profile_name']}}</td>
                                     <td>{{$item['profile_role']}}</td>
-
                                     <td><div class="prdct-img"><img src="/backend/upload/{{$item->profile_image}}"></div></td>
                                     <td>
                                         <div class="d-flex action">

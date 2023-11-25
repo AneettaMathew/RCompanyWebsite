@@ -71,5 +71,5 @@ class MeetTeamController extends Controller
     $meetteamdelete->delete();
     return redirect('/admin/listteams');
   }
-
+  
 }

@@ -31,13 +31,13 @@
                             <a href="{{route('client.list')}}" class="dropdown-item">List Clients</a>
                         </div>
                     </div>
-                    <div class="nav-item dropdown">
+                    <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Manage portfolio</a>
                         <div class="dropdown-menu bg-transparent border-0">
                             <a href="product-list.html" class="dropdown-item">portfoliosection</a>
                             <a href="category-list.html" class="dropdown-item">Portfolio Page</a>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="navbar-nav dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Manage Services</a>
                         <div class="dropdown-menu bg-transparent border-0">

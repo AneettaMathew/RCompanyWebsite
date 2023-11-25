@@ -40,7 +40,7 @@
                                     <div>
                                         <label for="example-text-input" class="col-sm-2 col-form-label"> </label>
                                         <div class ="col-sm-4">
-                                            <img id ="showImage" class ="rounded avatar-xl" src="{{asset('backend\upload\.png')}}" style="max-width: 250x; max-height: 250px" alt ="Card image cap">
+                                            <img id ="showImage" class ="rounded avatar-xl" src="{{asset('backend\upload\.png')}}" style="max-width: 250x; max-height: 250px" alt ="">
                                        </div>
 
                                     </div>

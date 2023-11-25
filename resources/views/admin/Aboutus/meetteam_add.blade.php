@@ -9,7 +9,7 @@
                     <div class="col-12">
                         <div class="row" id="editprofile" style="display: flex;">
                             <div class="col-12">
-                                <strong class="fs-16 fw-500 light-blue-txt mb-3 d-block">Add Item</strong>
+                                <strong class="fs-16 fw-500 light-blue-txt mb-3 d-block">Add Team Members</strong>
                                 <form action="{{route('add.meetteam')}}" method="POST" enctype="multipart/form-data">
                                   @csrf
                                   <div class="col-md-7 mb-2">
